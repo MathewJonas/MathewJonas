@@ -17,15 +17,17 @@ I work across the full testing stack: UI automation, API testing, CI/CD pipeline
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 What I've Built
-🔹 Hybrid Test Framework (Java + Selenium + TestNG)
-A data-driven, keyword-driven hybrid framework built from scratch for a multi-module enterprise web application.
 
-POM architecture with reusable component libraries
-TestNG listeners for custom reporting and failure screenshots
-Maven + Jenkins pipeline with parallel execution across environments
-Result: Reduced regression cycle from ~6 hours → ~90 minutes
+### 🔹 Hybrid Test Framework (Java + Selenium + TestNG)
+A data-driven, keyword-driven hybrid framework built from scratch.
 
-[Link to repo or note: sanitised version of enterprise project]
+- POM architecture with reusable component libraries
+- TestNG listeners for custom reporting and failure screenshots
+- Maven + Jenkins pipeline with parallel execution across environments
+- **Result:** Reduced regression cycle from ~6 hours → ~90 minutes
+
+
+> [Selenium Framework Repo](https://github.com/MathewJonas/Selenium_Web_Automation-Complete-Practice-Projects)
 
 🔹 API Test Suite (Postman + RestAssured)
 End-to-end API validation suite covering auth flows, CRUD operations, and edge case handling.
@@ -33,8 +35,6 @@ End-to-end API validation suite covering auth flows, CRUD operations, and edge c
 Schema validation on all response contracts
 Environment-based config for dev/staging/prod
 Integrated into CI with auto-run on every PR merge
-
-[Link to repo]
 
 
 🔹 Cypress E2E Suite (JavaScript)
