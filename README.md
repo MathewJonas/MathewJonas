@@ -71,7 +71,7 @@ Learning more about contract testing with Pact
 
 2 years of professional experience as an SDET in enterprise environments
 I think bad test code causes more problems than no test code
-Based in India 🇮🇳 | Open to remote and hybrid roles
+Based in India | Open to remote and hybrid roles
 
 📫 Let's Connect
 
