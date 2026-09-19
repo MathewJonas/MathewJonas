@@ -69,7 +69,7 @@ Learning more about contract testing with Pact
 
 📌 A Bit More About Me
 
-2 years of professional experience as an SDET in enterprise environments
+3 years of professional experience as an SDET in enterprise environments
 I think bad test code causes more problems than no test code
 Based in India | Open to WFO, remote and hybrid roles
 
